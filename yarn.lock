@@ -12516,7 +12516,7 @@ __metadata:
     gatsby-transformer-sharp: ^4.17.0
     gh-pages: ^4.0.0
     identity-obj-proxy: ^3.0.0
-    is-absolute-url: ^3.0.3
+    is-absolute-url: ^4.0.1
     jest: ^28.1.1
     jest-environment-jsdom: ^28.1.1
     lodash: ^4.17.21
@@ -12701,7 +12701,7 @@ __metadata:
     gatsby-transformer-sharp: ^4.17.0
     gh-pages: ^4.0.0
     identity-obj-proxy: ^3.0.0
-    is-absolute-url: ^3.0.3
+    is-absolute-url: ^4.0.1
     jest: ^28.1.1
     jest-environment-jsdom: ^28.1.1
     jest-styled-components: ^7.0.8
@@ -14660,6 +14660,13 @@ __metadata:
   version: 3.0.3
   resolution: "is-absolute-url@npm:3.0.3"
   checksum: 5159b51d065d9ad29e16a2f78d6c0e41c43227caf90a45e659c54ea6fd50ef0595b1871ce392e84b1df7cfdcad9a8e66eec0813a029112188435abf115accb16
+  languageName: node
+  linkType: hard
+
+"is-absolute-url@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "is-absolute-url@npm:4.0.1"
+  checksum: de172a718439982a54477fdae55f21be69ec0e6a4b205db5484975d2f4ee749851fd46c28f3790dfc51a274c2ed1d0f8457b6d1fff02ab829069fd9cc761e48c
   languageName: node
   linkType: hard
 
